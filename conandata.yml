@@ -1,0 +1,4 @@
+sources:
+  "2.22.0":
+    sha256: bdaaedc72546ccd24e004bba83a44b165f0ba571f88ccb53574b92eacce66f2d
+    url: https://github.com/IntelRealSense/librealsense/archive/v2.22.0.tar.gz
